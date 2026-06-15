@@ -1,0 +1,4 @@
+phishing_email.csv
+model.pkl
+vectorizer.pkl
+__pycache__/
